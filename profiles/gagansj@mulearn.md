@@ -9,10 +9,10 @@
 
 ### My Projects
 
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| Name                | Description                                                               | 
+|---------------------|---------------------------------------------------------------------------|
+| **Piezoelectric locker system**  | The Piezoelectric Combination Locking System is an innovative security solution that utilizes piezoelectric sensors to detect and verify user input for accessing a secured area or device. Unlike traditional mechanical or electronic locks, which rely on physical keys or digital codes, this system offers enhanced security and convenience by integrating piezoelectric technology with a combination locking mechanism                                            |           |
+| **Robotic arm for industrial applications**  |  The Movable Robotic Arm for Industrial Segregation Applications is a specialized automation solution developed to streamline the process of segregating materials or components in industrial environments. This project aims to design and implement a versatile robotic arm capable of accurately identifying, sorting, and segregating objects based on image detection.                                           |           
 
 #### Leadership and Influence:
 
